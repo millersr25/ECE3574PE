@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/polynomial.dir/main.cpp.o CMakeFiles/polynomial.dir/polynomial.cpp.o -o polynomial 

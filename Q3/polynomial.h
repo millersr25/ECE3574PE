@@ -1,3 +1,6 @@
+#ifndef POLYNOMIAL_H
+#define POLYNOMIAL_H
+
 #include <vector> 
 #include <iostream> 
 #include <algorithm>
@@ -32,4 +35,4 @@ class Polynomial {
         void print() const; 
 }; 
 
-
+#endif
